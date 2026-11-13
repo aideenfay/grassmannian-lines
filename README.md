@@ -1,2 +1,5 @@
-# grassmannian-lines
-Line counts for homogeneous zero loci in Grassmannians via Bott localization.
+
+This repository implements Bott Localization to count the number of lines through a general point of a general zero locus in a Grassmannian.The defining bundle is assumed to be a direct sum of globally generated irreducible homogeneous vector bundles.
+
+
+
