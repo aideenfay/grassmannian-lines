@@ -1,0 +1,227 @@
+{
+  "description": "Fourfolds from Küchle's list in the provided reference.",
+  "reference": {
+    "author": "Oliver Küchle",
+    "title": "On Fano 4-folds of index 1 and homogeneous vector bundles over Grassmannians",
+    "journal": "Mathematische Zeitschrift",
+    "volume": 218,
+    "year": 1995,
+    "pages": "563–575",
+    "doi": "10.1007/BF02571923",
+    "table": "Theorem 3.1, p. 568"
+  },
+  "conventions": "Gr(k,n) parametrizes k-dimensional subspaces. S is the tautological subbundle, Q the quotient, O(1)=det(S*).",
+  "varieties": [
+    {
+      "type": "b1",
+      "k": 2,
+      "n": 5,
+      "summands": [
+        "O(1)",
+        "O(3)"
+      ]
+    },
+    {
+      "type": "b2",
+      "k": 2,
+      "n": 5,
+      "summands": [
+        "O(2)",
+        "O(2)"
+      ]
+    },
+    {
+      "type": "b3",
+      "k": 2,
+      "n": 6,
+      "summands": [
+        "Q(1)"
+      ]
+    },
+    {
+      "type": "b4",
+      "k": 2,
+      "n": 6,
+      "summands": [
+        "Sym2 S*",
+        "O(2)"
+      ]
+    },
+    {
+      "type": "b5",
+      "k": 2,
+      "n": 6,
+      "summands": [
+        "S*(1)",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "b6",
+      "k": 2,
+      "n": 6,
+      "summands": [
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(2)"
+      ]
+    },
+    {
+      "type": "b7",
+      "k": 2,
+      "n": 7,
+      "summands": [
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "b8",
+      "k": 2,
+      "n": 7,
+      "summands": [
+        "Sym2 S*",
+        "O(1)",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "b9",
+      "k": 2,
+      "n": 7,
+      "summands": [
+        "Sym2 S*",
+        "Sym2 S*"
+      ]
+    },
+    {
+      "type": "b10",
+      "k": 2,
+      "n": 7,
+      "summands": [
+        "Q*(1)",
+        "O(2)"
+      ]
+    },
+    {
+      "type": "b11",
+      "k": 2,
+      "n": 8,
+      "summands": [
+        "Q*(1)",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "c1",
+      "k": 3,
+      "n": 6,
+      "summands": [
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "c2",
+      "k": 3,
+      "n": 6,
+      "summands": [
+        "Wedge2 S*",
+        "O(1)",
+        "O(2)"
+      ]
+    },
+    {
+      "type": "c3",
+      "k": 3,
+      "n": 7,
+      "summands": [
+        "Q*(1)",
+        "Q*(1)"
+      ]
+    },
+    {
+      "type": "c4",
+      "k": 3,
+      "n": 7,
+      "summands": [
+        "Sym2 S*",
+        "O(1)",
+        "O(1)"
+      ],
+      "note": "Excluded from final index-one classification: the restricted Plucker polarization is divisible."
+    },
+    {
+      "type": "c5",
+      "k": 3,
+      "n": 7,
+      "summands": [
+        "Wedge2 S*",
+        "Q*(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "c6",
+      "k": 3,
+      "n": 7,
+      "summands": [
+        "Wedge2 S*",
+        "Wedge2 S*",
+        "O(1)",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "c7",
+      "k": 3,
+      "n": 8,
+      "summands": [
+        "Wedge3 Q",
+        "O(1)"
+      ]
+    },
+    {
+      "type": "d1",
+      "k": 4,
+      "n": 8,
+      "summands": [
+        "Sym2 S*",
+        "O(1)",
+        "O(1)"
+      ],
+      "note": "Excluded from final index-one classification: the zero locus is disconnected and the polarization is divisible on each component."
+    },
+    {
+      "type": "d2",
+      "k": 4,
+      "n": 9,
+      "summands": [
+        "Sym2 S*",
+        "Wedge2 S*"
+      ],
+      "note": "Excluded from final index-one classification: the restricted Plucker polarization is divisible."
+    },
+    {
+      "type": "d3",
+      "k": 5,
+      "n": 10,
+      "summands": [
+        "Wedge2 S*",
+        "Wedge2 S*",
+        "O(1)"
+      ]
+    }
+  ]
+}
