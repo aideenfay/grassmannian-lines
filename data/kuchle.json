@@ -160,7 +160,7 @@
         "O(1)",
         "O(1)"
       ],
-      "note": "Excluded from final index-one classification: the restricted Plucker polarization is divisible."
+      "note": "Excluded:: the restricted Plucker polarization is divisible."
     },
     {
       "type": "c5",
@@ -201,7 +201,7 @@
         "O(1)",
         "O(1)"
       ],
-      "note": "Excluded from final index-one classification: the zero locus is disconnected and the polarization is divisible on each component."
+      "note": "Excluded: the zero locus is disconnected and the polarization is divisible on each component."
     },
     {
       "type": "d2",
@@ -211,7 +211,7 @@
         "Sym2 S*",
         "Wedge2 S*"
       ],
-      "note": "Excluded from final index-one classification: the restricted Plucker polarization is divisible."
+      "note": "Excluded:: the restricted Plucker polarization is divisible."
     },
     {
       "type": "d3",
